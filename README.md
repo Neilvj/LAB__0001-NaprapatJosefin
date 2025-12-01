@@ -1,33 +1,63 @@
-# Naprapat Josefin – Webbplats
+Naprapat Josefin – Website
 
-## Svenska
-Jag har byggt en modern och användarvänlig webbplats för det lokala företaget **Naprapat Josefin** med enbart **HTML och CSS**. Sidan är enkel att navigera, responsiv och anpassad för både dator och mobil.
+A modern, responsive website built for a local business using pure HTML and CSS.
+This project demonstrates clean structure, responsive design, and strong attention to user experience without relying on JavaScript frameworks or libraries.
 
-### Design och struktur
-- **Flexbox och media queries** för en ren, mobilanpassad layout.  
-- **CSS-variabler i `:root{}`** för enkel hantering av färger, typsnitt och avstånd.  
-- Tydlig navigering med en **”Tillbaka”-knapp** samt en **”Boka din tid”-knapp** med ren CSS-styling och visuell feedback.  
+🔧 Tech Stack
 
-### Funktionalitet
-- **E-postlänk** som automatiskt öppnar användarens standardprogram och fyller i ämnesraden med *”Bokningsförfrågan”*.  
+HTML5
 
-### Framtida förbättringar
-- Utveckla stöd för webbaserade e-posttjänster som Gmail, vilket kräver mer avancerad funktionalitet.  
-- Förbättra **responsiviteten på huvudtiteln** *”Naprapat Josefin”*. Just nu bryts texten på mobila enheter och hamnar under logotypen. Jag planerar att återbesöka detta för att skapa en mer sömlös, enradig layout när jag har fördjupat mina CSS-kunskaper.  
+CSS3
 
----
+Flexbox
 
-## English
-I have built a modern and user-friendly website for the local business **Naprapat Josefin**, using only **HTML and CSS**. The site is easy to navigate, responsive, and works well on both desktop and mobile devices.
+Media Queries
 
-### Design and Structure
-- **Flexbox and media queries** to achieve a clean, mobile-friendly layout.  
-- **CSS variables in `:root{}`** for easy management of colors, fonts, spacing, and margins.  
-- Clear navigation with a **“Back” button** and a **“Book your appointment” button**, fully styled with CSS and providing visual feedback on hover.  
+CSS Variables
 
-### Functionality
-- **Email link** that automatically opens the user’s default email client and pre-fills the subject line with *“Booking Request”*.  
+🌍 Project Overview
 
-### Future Improvements
-- Add support for web-based email services like Gmail, which requires more advanced functionality.  
-- Improve the **responsiveness of the main title** *“Naprapat Josefin”*. Currently, on mobile devices, the title wraps to a new line below the logo. I plan to revisit this to achieve a smoother, single-line layout once I have developed more advanced CSS skills.  
+This project was created for the local business Naprapat Josefin. The primary goal was to build a simple, accessible, and visually clean website that works seamlessly across both desktop and mobile devices.
+
+Key Features
+
+Fully responsive layout using Flexbox and media queries
+
+Centralized styling through CSS variables (:root)
+
+Clear and intuitive navigation with:
+
+a Back button
+
+a prominent Book your appointment call-to-action
+
+Clean, fully CSS-styled buttons with visual hover and interaction feedback
+
+Email link that opens the user’s default email client and pre-fills the subject line with
+“Booking Request”
+
+🚧 Project Status
+
+This project is currently in an ongoing development (production) phase and may never be published as a finalized public website. It is actively maintained and continuously updated as my frontend skills evolve.
+
+Features may be added, refined, or removed over time to reflect improved code quality, stronger layout techniques, and a deeper understanding of modern CSS best practices.
+
+🚀 Future Improvements
+
+Add support for web-based email services such as Gmail
+
+Improve the responsiveness of the main header “Naprapat Josefin” to ensure a consistent single-line layout on mobile devices
+
+Continue refining layout, spacing, and accessibility as skill level increases
+
+📌 Purpose of This Project
+
+This repository serves as a portfolio project showcasing:
+
+Semantic and accessible HTML
+
+Responsive layouts built with modern CSS
+
+Clean, maintainable structure without external frameworks
+
+Continuous learning and iterative improvement
