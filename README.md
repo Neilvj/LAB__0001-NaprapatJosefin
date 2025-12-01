@@ -52,5 +52,4 @@ This repository serves as a **portfolio project** showcasing:
 - Responsive layouts built with modern CSS
 - Clean, maintainable structure without external frameworks
 - Continuous learning and iterative improvement
-![Desktop view](screenshots/desktop.png)
-![Mobile view](screenshots/mobile.png)
+
